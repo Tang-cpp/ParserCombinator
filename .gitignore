@@ -1,0 +1,6 @@
+.*
+!.gitignore
+!.gitmodules
+bin
+bin-obj
+*.user
