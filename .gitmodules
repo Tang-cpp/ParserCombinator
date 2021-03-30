@@ -1,0 +1,3 @@
+[submodule "parser/thirdparty/tsl"]
+	path = parser/thirdparty/tsl
+	url = https://github.com/Tessil/hat-trie
